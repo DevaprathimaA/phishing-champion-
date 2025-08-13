@@ -1,0 +1,18 @@
+
+#### ✅ `LICENSE`
+
+Use [MIT License](https://choosealicense.com/licenses/mit/) for open-source friendliness.
+
+---
+
+### 🐙 Step 3: Push to GitHub
+
+1. Create a new repo on [GitHub](https://github.com/new)
+2. In your terminal:
+
+```bash
+git init
+git add .
+git commit -m "Initial release of Phishing Champion"
+git remote add origin https://github.com/yourusername/phishing-champion.git
+git push -u origin main
