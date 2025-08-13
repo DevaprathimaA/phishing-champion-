@@ -1,0 +1,9 @@
+@app.route('/submit_credentials', methods=['POST'])
+def submit_credentials():
+    username = request.form['username']
+    # Log credentials (for simulation only)
+    return redirect('/training')
+
+@app.route('/training')
+def training():
+    return render_template('training.html')
