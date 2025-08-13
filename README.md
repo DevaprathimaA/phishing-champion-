@@ -17,6 +17,8 @@ Run the Tool
 🧰 Step 1: Clone the Repo
 
 git clone https://github.com/yourusername/phishing-champion.git
+
+
 cd phishing-champion
 
 
