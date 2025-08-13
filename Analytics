@@ -1,0 +1,5 @@
+@app.route('/admin/report')
+def report():
+    conn = sqlite3.connect('db.sqlite')
+    data = conn.execute("SELECT * FROM tokens").fetchall()
+    return render_template('report.html', data=data)
