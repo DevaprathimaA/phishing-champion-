@@ -11,7 +11,7 @@ A phishing simulation tool to test employee awareness and deliver instant traini
 ## Setup
 
 
-Run the Tool on a New Laptop
+Run the Tool
 
 
 🧰 Step 1: Clone the Repo
