@@ -9,7 +9,11 @@ A phishing simulation tool to test employee awareness and deliver instant traini
 - Analytics dashboard for risk profiling
 
 ## Setup
+
+
 Run the Tool on a New Laptop
+
+
 🧰 Step 1: Clone the Repo
 
 git clone https://github.com/yourusername/phishing-champion.git
